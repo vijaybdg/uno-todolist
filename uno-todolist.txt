@@ -1,0 +1,3 @@
+UNO todolist
+- bikin report perbandingan dgn quickreport
+- bikin report perbandingan dgn excel
