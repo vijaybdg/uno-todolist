@@ -1,4 +1,4 @@
 UNO todolist
 - bikin report perbandingan dgn quickreport
 - bikin report perbandingan dgn excel
-- bikin report perbandingan dgn pdf
+- bikin report perbandingan dgn openoffice
